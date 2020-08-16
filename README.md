@@ -28,3 +28,9 @@ Once the values have been provided, run the block to get the prediction on weath
 * seaborn 
 * sklearn
 * statsmodels
+
+OR
+
+You can install Anaconda, which comes with Jupiter notebook and all the libraries needed.
+Under environments tab, make sure all the libraries are checked)
+https://www.anaconda.com/products/individual#macos
